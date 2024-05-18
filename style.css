@@ -29,6 +29,7 @@ button{
     font-size: 19px;
     border: none;
     outline: none;
+    cursor: pointer;
 
 }
 .text ul{
@@ -37,8 +38,10 @@ button{
     background-color: rgb(9, 62, 62);
     color:white;
     font-size: 19px;
+    padding:7px;
 }
 .text ul i{
     position: absolute;
     right: 10px;
+    cursor: pointer;
 }
